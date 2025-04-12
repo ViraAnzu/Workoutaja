@@ -6,7 +6,6 @@ A website for fitness workouts.
 
 *   HTML
 *   CSS
-*   JavaScript
 
 ## Usage
 
